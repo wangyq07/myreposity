@@ -1,0 +1,8 @@
+d:\projects\BiTools\bin\mongocrypt.dll
+d:\projects\BiTools\bin\ToolLIbrary.dll
+d:\projects\BiTools\bin\ToolLIbrary.pdb
+d:\projects\BiTools\ToolLIbrary\obj\Release\ToolLIbrary.csprojAssemblyReference.cache
+d:\projects\BiTools\ToolLIbrary\obj\Release\ToolLIbrary.csproj.CoreCompileInputs.cache
+d:\projects\BiTools\ToolLIbrary\obj\Release\ToolLIbrary.csproj.CopyComplete
+d:\projects\BiTools\ToolLIbrary\obj\Release\ToolLIbrary.dll
+d:\projects\BiTools\ToolLIbrary\obj\Release\ToolLIbrary.pdb

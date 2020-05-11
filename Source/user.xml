@@ -1,0 +1,7 @@
+<Root>{
+  "_id": "admin",
+  "displayname": "管理员",
+  "pwd": "bUeISxidtac=",
+  "belongrole": "admin",
+  "remark": "admin"
+}</Root>
